@@ -1,5 +1,8 @@
 # Scale-Time Lattice
 
+![examples](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/examples.gif)
+
+
 Project page: http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/
 
 We plan to clean and release the code after NIPS submission deadline (May 18) and before CVPR conference (June 18).
