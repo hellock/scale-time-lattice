@@ -3,7 +3,7 @@
 **Project page**: http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/
 
 
-![examples](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/examples.gif)
+![examples](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/img/examples.gif)
 
 
 We plan to clean and release the code before CVPR conference (June 18).
@@ -11,7 +11,7 @@ We plan to clean and release the code before CVPR conference (June 18).
 
 ## Results
 
-![result](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/results.png)
+![result](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/img/results.png)
 
 Data needed to plot the figure can be found in `figure/data.pkl`.
 
