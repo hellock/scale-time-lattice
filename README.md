@@ -6,7 +6,8 @@
 ![examples](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/img/examples.gif)
 
 
-We plan to clean and release the code before CVPR conference (June 18).
+We will release the code as soon as we finish the cleaning. Our implementation
+is based on PyTorch and we will release both training and testing code.
 
 
 ## Results
